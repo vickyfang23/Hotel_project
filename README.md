@@ -2,8 +2,11 @@
 【研究目的】
 
 了解旅宿業在疫情之下影響程度究竟有多大?擁有合法標章比例又有多少?
+
 並將旅館本身定價與訂房網站做比較。
 
-【使用工具】Python爬蟲、SQLite、Google Data Studio
+【使用工具】
+
+Python爬蟲、SQLite、Google Data Studio
 
 
