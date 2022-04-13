@@ -10,6 +10,7 @@
 Python爬蟲、SQLite、Google Data Studio
 
 【檔案說明】
+
 爬取資料-TaiwanLegal(台灣旅宿網)、Booking(Booking.com線上訂房平台)
 
 分析及視覺化階段-analysis_1、analysis_2
